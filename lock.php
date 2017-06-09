@@ -1,4 +1,4 @@
 <?php 
 	echo "create update";
-	die("test aja 2");
+	die("test aja 2a");
 ?>
